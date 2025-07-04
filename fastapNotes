@@ -4,3 +4,9 @@ FastApi : a python framework to build apis.
 fast, async programming. python 3.6+ 
 how it's better: its speed orientantion, can validate the datatypes, json, oauth and Open api.
 much faster to build an api, production ready. interactive and automatic documention.
+
+
+PYthon sql  toolkit
+
+maps the table row to model allow to run orms (simple sql statements written in the python)
+
