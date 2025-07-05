@@ -24,3 +24,16 @@ class Seller(BaseModel):
     username: str
     email: str 
     price: str 
+
+class Login(BaseModel):
+    username: str 
+    price: str 
+
+
+class Token(BaseModel):
+    access_token: str 
+    token_type: str 
+
+class TokenData(BaseModel):
+    username : Optional[str] = None
+
